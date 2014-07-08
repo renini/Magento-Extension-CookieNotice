@@ -17,7 +17,7 @@
 .cookienotice-bar {clear: both;width: 100%;}
 .cookienotice-bar-top {position: absolute;top: 0;left: 0;}
 .cookienotice-bar-bottom {position: fixed;top: auto;bottom: 0;left: 0;}
-.cookienotice-bar .cookienotice-content {width: 960px;}
+.cookienotice-bar .cookienotice-content {width: 90%;}
 
 /* BOX */
 .cookienotice-box {position: fixed;top: 0;left: 0;width: 240px;border-radius: 4px;top: auto;bottom: auto;left: auto;right: auto;}
